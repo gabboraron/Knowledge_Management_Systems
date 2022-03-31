@@ -52,3 +52,36 @@ http://www.sbgc.org.br/uploads/6/5/7/6/65766379/zack1999.pdf
 
 how to do:
 1. vision & mission - what you do for the society
+
+https://open.hpi.de/courses/cleanit2021/items/45j1RGpdVU7zwcGE90QB9U
+until april 12
+
+## Organizational learning and learning organization
+*especially in scandinavia*
+
+- LO does not exist without the OL
+- OL does not exist without the individual learning
+- individual learning does not implay OL and LO
+
+### learning organization in multilevel systems of manufacturing
+- a learning organization has specific principles and specific methodologies for activating the learning potetntial of the hierarchical system
+- priciples:
+  - self-organization
+  - self-optimization
+  - self-control
+  - self-adaptation of the operating system
+
+factors affecting group learning
+- member contribution
+- levels of group interaction
+- task constraints and focus
+- leadership behavior to facilitate the process
+- resources
+- conflict resolution
+
+kinds of organizational:
+- kinds of organizational learning according to marquardt
+- kinds of organizational learning according to argysis
+  - single loop learning
+
+
