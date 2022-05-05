@@ -84,4 +84,28 @@ kinds of organizational:
 - kinds of organizational learning according to argysis
   - single loop learning
 
+## House of quality
+![house of quality](https://www.isixsigma.com/wp-content/uploads/2018/11/House-of-Quality-template.png)
+
+https://asq.org/
+
+house of quality cretor tool: https://www.smartdraw.com/software/house-of-quality-matrix-software.htm 
+
+http://www.qfdonline.com/templates/qfd-and-house-of-quality-templates/
+
+excel template: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT7sOO5sj3AhUXwQIHHRGWD98QFnoECAgQAQ&url=https%3A%2F%2Fwww.ieee.li%2Ftmc%2Ftraditionalhoq.xlt&usg=AOvVaw1lUJSnZPz2oS9HdAX0W1VJ
+
+https://blog.masterofproject.com/house-of-quality/
+
+https://www.qimacros.com/quality-tools/qfd/
+
+this one is our: https://rtucloud1.sharepoint.com/sites/KMS_O365G/SitePages/CollabHome.aspx
+
+https://docs.google.com/spreadsheets/d/1izuEIWSovQBCqtmtJX3-W0HAqRz2ZHE7/edit#gid=1920786953
+
+
+
+
+
+
 
