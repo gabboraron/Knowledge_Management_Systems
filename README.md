@@ -104,6 +104,9 @@ this one is our: https://rtucloud1.sharepoint.com/sites/KMS_O365G/SitePages/Coll
 https://docs.google.com/spreadsheets/d/1izuEIWSovQBCqtmtJX3-W0HAqRz2ZHE7/edit#gid=1920786953
 
 
+> *I've learned a lot about how to collect all my ideas about a concept, and what is a good management system for this. Also, I've seen how to organize my thoughts and see the hidden connections between things.*
+> 
+> *According to my learning, computer engineering is an important thing because this is the first step in project management too.*
 
 
 
